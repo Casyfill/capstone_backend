@@ -1,0 +1,9 @@
+name: capstone-env
+dependencies:
+- python=2.7
+- flask
+- pip
+- sqlalchemy
+- pymongo
+- pip
+- anaconda
